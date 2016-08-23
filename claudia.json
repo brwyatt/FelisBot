@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "felisbot-executor",
+    "name": "felisbot",
+    "region": "us-west-2"
+  },
+  "api": {
+    "id": "qryiol9ntj",
+    "module": "bot"
+  }
+}
